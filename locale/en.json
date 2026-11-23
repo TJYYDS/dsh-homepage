@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Home hero decoration",
+    "description": "Customize the new-conversation home: headline text, color and size; composer card color, width and vertical offset. Configure it in Settings > Home hero decoration; changes apply live.",
+    "detail": "docs/DETAIL.md"
+  }
+}

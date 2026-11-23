@@ -1,0 +1,4 @@
+- insert:
+    - id: hero-decor
+      name: '@local/hero-decor'
+      config: {}
